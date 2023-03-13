@@ -1,0 +1,39 @@
+.header{
+  
+  background-color: #f2c746;
+
+}
+
+.login{
+  margin-left: 90%;
+  background-color: #e4480f;
+  height: 23px;
+  text-align: center;
+}
+
+.events_posts{
+  background-color: red;
+  margin-top: 5%;
+  flex: 1;
+  flex-direction: column;
+  text-align: center;
+}
+
+.App{
+  
+}
+
+.login_button{
+  border-radius: 20%;
+  font-size: small;
+  border-width: 0.8px;
+  color:black;
+  background-color: green;
+  height:25px;
+  
+}
+
+.login_cont{
+  
+
+}
