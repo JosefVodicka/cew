@@ -4,8 +4,8 @@ const mysql = require('mysql');
 let connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "Tink1232",
-    database: "Vu5"
+    password: "---",
+    database: "JosefVodicka"
 });
 connection.connect(function (err) {
     if (err) throw Error('unsuccessful connection for some reason'+err)
