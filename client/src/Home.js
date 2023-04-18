@@ -2,9 +2,11 @@ import React from "react";
 import Nav from "./components/nav";
 import Dashboard from "./components/cards/dashboard";
 import EventCard from "./components/cards/event-card";
+import styles from './index.css';
 
 function Home() {
 
+  
   
   return (
     <div className="Home">

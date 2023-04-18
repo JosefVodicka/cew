@@ -5,9 +5,55 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(37, 147, 238, 0.32);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  color:black;
+}
+.navbar{
+  background-color: rgb(37, 148, 238);
+}
+
+.dashboard{
+  height: 100%;
+}
+
+.nav-item{
+  font-weight: 700;
+}
+
+.joinrsostyle{
+  background-color:  rgba(37, 147, 238, 0.566);;
+}
+
+
+
+.card-header{
+  background-color: rgba(37, 147, 238, 0.566);
+}
+
+.form-control{
+  background-color:  rgba(132, 196, 249, 0.561);
+  border-width: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.card{
+  background-color:  rgba(132, 196, 249, 0.561);
+  border-width: 1px;
+  border-color: black;
+  border-radius: 8px;
+}
+
+.btn{
+  color: black;
+  border-color: black;
+}
+

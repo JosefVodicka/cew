@@ -39,7 +39,7 @@ class Card extends React.Component {
   render() {
     return (
       <div onClick={this.props.onClick} className={styles.cardContainer + " card-body m-5"}>
-        <h2 className="card-title">{this.state.title}</h2>
+        <h2 className= {"card-title"}>{this.state.title}</h2>
         <h5 className="card-subtitle text-muted">{this.state.rso}</h5>
         <div className={styles.ratingsContainer}>
           <Ratings fontSize={"16px"} totalRatings={this.state.total} numRatings={this.state.num}/>

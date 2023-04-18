@@ -18,8 +18,8 @@ class RsoForm extends React.Component {
     return (
       <div>
         <form className="card border-3">
-          <div className="card-header">
-            <h1 className="text-center text-muted mb-0">Create a RSO</h1>
+          <div style={{color:'black'}} className="card-header">
+            <h1 className="text-center mb-0" >Create a RSO</h1>
           </div>
 
           <div className="container w-75 p-3">

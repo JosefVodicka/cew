@@ -11,10 +11,10 @@ class Login extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="SignIn">
         <form className="card border-3">
           <div className="card-header">
-            <h1 className="text-center text-muted mb-0">Sign In</h1>
+            <h1 className="text-center mb-0">Sign In</h1>
           </div>
 
           <div className="container w-75 p-3">

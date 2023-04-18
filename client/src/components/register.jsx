@@ -12,7 +12,7 @@ class Register extends React.Component {
       <div>
         <form className="card border-3">
           <div className="card-header">
-            <h1 className="text-center text-muted mb-0">Register</h1>
+            <h1 className="text-center mb-0">Register</h1>
           </div>
 
           <div className="container w-75 p-3">

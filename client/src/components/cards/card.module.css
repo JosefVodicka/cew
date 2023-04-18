@@ -7,14 +7,16 @@
 
 .commentSection {
   height: 300px;
+  
 }
 
 .cardContainer {
-  border: 3px solid black;
-  border-radius: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
   height: 400px;
   width: 300px;
   position: relative;
+  background-color:  rgba(132, 196, 249, 0.561);;
 }
 
 .ratingsContainer {
@@ -28,3 +30,6 @@
   position: absolute;
   bottom: 30px;
 }
+
+
+

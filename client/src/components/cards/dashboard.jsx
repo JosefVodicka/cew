@@ -28,7 +28,7 @@ class Dashboard extends React.Component {
     return (
       <div>
         {this.state.open}
-        <div className={"d-flex flex-wrap"}>
+        <div className={"dashboard d-flex flex-wrap"}>
           {
             this.state.events.map((event) => (
               <Card onClick={() => this.openEvent(event.event_id)} key={event.event_id} data={event}/>

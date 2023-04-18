@@ -95,7 +95,7 @@ class EventCard extends React.Component {
                 {this.calcAvgRate()}
               </span>
             </div>
-            <div className="form-outline mb-3">
+            <div className={"form-outline mb-3"}>
               <textarea onChange={this.handleComment} id="add-comment" className="form-control fs-5" placeholder="write a comment..."/>
             </div>
             <div className="row mb-4">
