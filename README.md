@@ -16,7 +16,7 @@ Requirements for the software and other tools to build, test and push
 
 Start by cloning the repository onto your system.
 ```
-git clone https://github.com/danielcollishaw/rso-app.git
+
 ```
 Once cloned, run npm start to initiliaze the back-end server.
 ```
@@ -39,10 +39,5 @@ The front end server should be located at localhost:3000.
 
 ## Authors
 
-  - **Daniel Collishaw** - *Developer* -
-  - **Rashelle Azaula** - *Developer* -
-  - **Emin Mammadzada** - *Developer* -
+  - **Josef Vodicka** - *Developer* -
 
-See also the list of
-[contributors](https://github.com/danielcollishaw/rso-app.git/contributors)
-who participated in this project.
