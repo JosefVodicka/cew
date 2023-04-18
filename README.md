@@ -14,11 +14,7 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-Start by cloning the repository onto your system.
-```
-
-```
-Once cloned, run npm start to initiliaze the back-end server.
+Run npm start to initiliaze the back-end server.
 ```
 npm start
 ```
